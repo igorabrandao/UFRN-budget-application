@@ -5,7 +5,7 @@ Have you ever asked yourself how your University/School spend its incomes?
 Here we decide to make that question, so we accessed the open data website from Universidade Federal do Rio Grande do Norte (UFRN)
 to analyse how its budget is being applied.
 
-The idea of this project is to perform analyses from severous dataSets and present insights about this subject.
+The idea of this project is to perform analyses from several dataSets and present insights about this subject.
 
 
 ## Team:
